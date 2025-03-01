@@ -24,7 +24,7 @@
     "concurrently": "^9.1.0",
     "juice": "^11.0.0",
     "lightningcss-cli": "^1.28.1",
-    "sass": "^1.81.0"
+    "sass": "^1.85.1"
   },
   "browserslist": [
     "> 0.25%",
