@@ -21,7 +21,7 @@ Booking reference: {Booking_pkId} (You will need this reference number when payi
 
 ## To confirm your booking, you must:
   - Give notice within one year of the date of the {Booking_TypeOfBooking} and no less than 29 days before the {Booking_TypeOfBooking} ceremony. To book an appointment in Leeds please visit [leeds.gov.uk](https://www.leeds.gov.uk/births-deaths-and-marriages/ceremonies/giving-your-notice-of-marriage-or-civil-partnership). It is your responsibility to ensure that the legal notice appointment is completed.
-  - [Pay the remaining ceremony fee](https://leeds.sishost.co.uk/Agenda/NewOnlineBookings/appointment.html?pg=2b987999-5fce-4258-b99d-d225c775ae31) of £{Booking_FeeAmountPaid} at least 3 months before the date of the ceremony. You can pay online or by calling us on <a href="tel:+441132224408">0113 2224408</a>.
+  - [Pay the remaining ceremony fee](https://leeds.sishost.co.uk/Agenda/NewOnlineBookings/appointment.html?pg=2b987999-5fce-4258-b99d-d225c775ae31) of £{Booking_FeeAmountPaid} at least 3 months before the date of the ceremony. You can pay by visiting [leeds.gov.uk](https://www.leeds.gov.uk/births-deaths-and-marriages/ceremonies) or by calling us on <a href="tel:+441132224408">0113 2224408</a>.
 
 
 ## Your ceremony venue
