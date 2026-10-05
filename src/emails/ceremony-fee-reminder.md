@@ -8,7 +8,7 @@ headline: Your ceremony booking
 Hi {Booking_Addressee1} and {Booking_Addressee2}
 
 ## Reminder: Your ceremony fees are due
-Please call us on <a href="tel:+441132224408">0113 2224408</a> to pay £{Booking_FeeAmountPaid} for your {Booking_TypeOfBooking} ceremony or visit, [leeds.gov.uk](https://www.leeds.gov.uk/births-deaths-and-marriages/ceremonies). If we do not receive a payment in the next 28 days we may cancel your ceremony. {Booking_LetterAdditionalText}
+Please visit [leeds.gov.uk](https://www.leeds.gov.uk/births-deaths-and-marriages/ceremonies) to pay £{Booking_FeeAmountPaid} for your {Booking_TypeOfBooking} ceremony or call us on <a href="tel:+441132224408">0113 2224408</a> to make payment. If we do not receive a payment in the next 28 days we may cancel your ceremony. {Booking_LetterAdditionalText}
 
 
 ## Provisional ceremony details:
