@@ -31,8 +31,8 @@ You have ordered the following certificate(s):
 If you ordered:
 
   - standard certificate(s) these will be posted to you within 21 days
-  - posted priority certificate(s) before midday (12pm), your certificate(s) will be posted first class the next working day. If you ordered after midday (12pm), your certificate(s) will be posted first class within two working days
-  - collection of priority certificate(s) before midday (12pm), your certificate(s) will be available to collect on the next working day from 2pm - 3:30pm. If you ordered after midday (12pm), your certificate(s) will be available to collect after two working day from 2pm - 3:30pm.
+  - posted priority certificate(s) ordered before midday (12pm). Your certificate(s) will be posted first class the next working day. If you ordered after midday (12pm), your certificate(s) will be posted first class within two working days
+  - collection of priority certificate(s) ordered before midday (12pm). Your certificate(s) will be available to collect on the next working day from 2pm - 3:30pm. If you ordered after midday (12pm), your certificate(s) will be available to collect after two working days from 2pm - 3:30pm.
 
 Please check [leeds.gov.uk](https://www.leeds.gov.uk/births-deaths-and-marriages/certificates/order-copy-certificates) for examples of timescales if you are unsure when you will get your certificate(s).
 
