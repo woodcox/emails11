@@ -33,9 +33,9 @@ You must bring proof of each parents' fullname, such as:
  - UK birth certificate
  - [sharecode for an eVisa](https://www.gov.uk/evisa/view-evisa-get-share-code-prove-immigration-status) or other biometric immigration document
  - EU identity card
- - [PASS Card](https://www.pass-scheme.org.uk/) or [digital PASS](https://www.pass-scheme.org.uk/pass-digital-page/)
+ - [PASS card](https://www.pass-scheme.org.uk/) or [digital PASS](https://www.pass-scheme.org.uk/pass-digital-page/)
 
-If you do not have one of the documents above, you must bring two documents on the [secondary list].(https://www.leeds.gov.uk/births-deaths-and-marriages/register-a-birth). If you do not bring the correct documents the appointment will be rebooked.
+If you do not have one of the documents above, you must bring two documents on the [secondary list](https://www.leeds.gov.uk/births-deaths-and-marriages/register-a-birth). If you do not bring the correct documents the appointment will be rebooked.
 
 ## Certificate fees
 Birth certificates cost £12.50 each. You can pay using a bank card or cash. If you bring cash, please have the exact amount.
