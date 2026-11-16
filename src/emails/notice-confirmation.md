@@ -52,6 +52,7 @@ Legally your ceremony must take place at the venue named on your notice. If afte
   - At your appointment you must tell us the location of the marriage or civil partnership
   - You should check with the local authorities in the country where you intend to marry or form a civil partnership to find out how long a Certificate of No impediment is valid for under local law and what they want to appear on the CONI for the place of marriage/civil partnership (for example: Athens, Greece or The City Hall, Lindos, Rhodes, Greece)
   - The CONI will be issued 29 days after your appointment.
+  - You should also check if you [need documents legalised](https://www.gov.uk/get-document-legalised). You might need to do this if the marriage/civil partnership authority in another country asked you to to provide legalised UK documents. 
 
 
 {% include "partials/appt-change-privacy.md" %}
