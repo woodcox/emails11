@@ -28,7 +28,7 @@ You both must bring a recent passport photo (if one of you is not British, Irish
 > {MarriageAppointment_Notice1Name}{CivilAppointment_Notice1Name} who is {MarriageAppointment_Notice1NationalityText} {CivilAppointment_Notice1NationalityText} must bring:
 > {Appointment_Required_Documents_Contact_1}
 
-> {MarriageAppointment_Notice2Name}{CivilAppointment_Notice2Name} who is {MarriageAppointment_Notice2NationalityText}{CivilAppointment_Notice2NationalityText} must bring:
+> {MarriageAppointment_Notice2Name}{CivilAppointment_Notice2Name} who is {MarriageAppointment_Notice2NationalityText}{CivilAppointment_Notice2NationalityText} (if they are giving notice in Leeds) must bring:
 > {Appointment_Required_Documents_Contact_2}
 
 
