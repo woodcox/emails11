@@ -43,4 +43,8 @@ Birth certificates cost £12.50 each. You can pay using a bank card or cash. If 
 ## Interpreters
 If you have requested an interpreter we will arrange one for you. If we are unable to arrange an interpreter for the appointment you have selected, we will contact you to offer a different date and time that the interpreter can attend. 
 
+## Get help to buy food and milk
+If you have children under 4, you may be able to get [help to buy healthy food and milk](https://www.healthystart.nhs.uk/) through the NHS Healthy Start Scheme.
+
+
 {% include "partials/appt-change-privacy.md" %}
